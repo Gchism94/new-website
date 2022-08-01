@@ -1,17 +1,15 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "Lately" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  I am a recovering academic researcher. My dissertation, under the guidance of Dr. Anna Dornhaus, focused on how the shapes of ant nests affect how they behave, and addressed links between animal and human architectures. I am actively involved in R programming consultation and workshops, statistical training, and collaborative, reproducible research. 
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fa-solid fa-hand-love"></i>Thanks for visiting!
 ---
 
 ** index doesn't contain a body, just front matter above.
