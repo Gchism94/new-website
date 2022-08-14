@@ -25,6 +25,10 @@ links:
   icon_pack: ai
   name: Publication
   url: https://doi.org/10.1101/2022.06.30.497551
+- icon: github
+  icon_pack: fab
+  name: GitHub
+  url: https://github.com/Gchism94/HumidityProject
 ---
 
 
