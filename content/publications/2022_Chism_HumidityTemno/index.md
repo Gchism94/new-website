@@ -29,10 +29,14 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/Gchism94/HumidityProject
-- icon: fa-markdown
-  icon_pack: fab
-  name: Distill
-  url: publications/2022.06.30.TemnoHumidityv1.full.html
+- icon: zenodo
+  icon_pack: ai
+  name: Published Data
+  url: https://doi.org/10.5281/zenodo.6780270
+- icon: zenodo
+  icon_pack: ai
+  name: Research Compendium
+  url: https://doi.org/10.5281/zenodo.6981601
 ---
 
 ![](HumidSetup.png)
