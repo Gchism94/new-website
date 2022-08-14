@@ -91,7 +91,7 @@ enableEmoji = true
       url       = "https://github.com/gchism94"
   [[params.social]]
       icon      = "google-scholar"
-      icon_pack = "academicons"
+      icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en"
   [[params.social]]
       icon      = "linkedin"
