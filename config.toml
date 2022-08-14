@@ -90,7 +90,7 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/gchism94"
   [[params.social]]
-      icon      = "solid graduation-cap"
+      icon      = "google-scholar"
       icon_pack = "fas"
       url       = "https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en"
   [[params.social]]
