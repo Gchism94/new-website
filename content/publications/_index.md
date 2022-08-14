@@ -30,6 +30,6 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /publication/
+    text_link_url: /publications/
     show_sidebar_adunit: false # show ad container
 ---

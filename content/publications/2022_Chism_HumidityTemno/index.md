@@ -20,7 +20,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: PDF
-  url: publication/2022.06.30.TemnoHumidityv1.full.pdf
+  url: publications/2022.06.30.TemnoHumidityv1.full.pdf
 ---
 
 ## Executive Summary 
