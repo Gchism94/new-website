@@ -32,7 +32,7 @@ links:
   url: https://github.com/Gchism94/NestArchOrg
 ---
 
-
+![]NestArchFig.png
 
 ## Abstract 
 
