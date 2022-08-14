@@ -145,14 +145,14 @@ enableEmoji = true
     url = "/publications/"
     weight = 3
   [[menu.header]]
-    name = "Research Compendium"
-    title = "Research Compendium"
-    url = "/compendium/"
-    weight = 4
-  [[menu.header]]
     name = "teaching"
     title = "Teaching"
     url = "/teaching/"
+    weight = 4
+  [[menu.header]]
+    name = "cv_resume"
+    title = "Resume/CV"
+    url = "/resume_cv/"
     weight = 4
   #[[menu.header]]
   #  name = "A collection"
