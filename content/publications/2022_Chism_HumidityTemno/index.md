@@ -31,7 +31,7 @@ links:
   url: https://github.com/Gchism94/HumidityProject
 ---
 
-
+![](HumidSetup.png)
 
 ## Abstract 
 
