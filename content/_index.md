@@ -1,9 +1,9 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Greg T. Chism (Ph.D.)"
+subtitle: "Personal website and portfolio of Dr. Greg T. Chism"
+description: "I am a Computational and Data Science Educator at the University of Arizona Data Science Institute. I received my Ph.D. in Entomology and Insect Science also at the University of Arizona where I studied social insect behavior."
 images:
-  - img/revoir.jpg
+  - img/chism-greg.jpg
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
