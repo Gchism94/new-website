@@ -9,7 +9,7 @@ tags:
   - Nest Architecture
   - Temnothorax
   - Humidity
-doi: 'https://doi.org/10.1101/2022.06.30.497551'
+doi: '10.1101/2022.06.30.497551'
 publishDate: '2022-07-02'
 publication_types:
   - '2'
@@ -21,6 +21,10 @@ links:
   icon_pack: fas
   name: PDF
   url: publications/2022.06.30.TemnoHumidityv1.full.pdf
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://doi.org/10.1101/2022.06.30.497551
 ---
 
 
