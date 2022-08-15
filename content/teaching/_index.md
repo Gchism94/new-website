@@ -14,11 +14,6 @@ sidebar:
   text_link_label: ''
   text_link_url: ''
   title: My Teaching Experience
-  links: 
-  - icon: file-pdf
-    icon_pack: fas
-    name: Teaching Philosophy (PDF)
-    url: teaching/GChism_TeachingPhil.pdf
 cascade:
   show_author_byline: no
   show_comments: no
