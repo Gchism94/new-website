@@ -1,28 +1,35 @@
 ---
-title: "My Teaching Experience"
+title: Teaching Experience
+description: |
+  My teaching philosophy and featured teaching pedagogy. 
 author: "Greg T. Chism"
-description: My featured teaching pedagogy as Quarto books.
-output: pdf_document
-show_author_byline: no
-show_button_links: yes
-show_post_date: no
-show_post_thumbnail: yes
-sidebar:
-  author: "Greg T. Chism"
-  description: My featured teaching pedagogy as Quarto books.
-  show_sidebar_adunit: yes
-  text_link_label: ''
-  text_link_url: ''
-  title: My Teaching Experience
-cascade:
-  show_author_byline: no
-  show_comments: no
-  show_post_date: no
-  sidebar:
-    show_sidebar_adunit: yes
-    text_link_label: View teaching experience
-    text_link_url: /teaching/
-layout: "list-sidebar"
----
+show_post_thumbnail: true
+thumbnail_left: true # for list-sidebar only
+show_author_byline: true
+show_post_date: true
+# for listing page layout
+layout: list # list, list-sidebar, list-grid
 
-\*\* No content for the project index. This file provides front matter for the blog including the layout and boolean options. \*\*
+# # for list-sidebar layout
+# sidebar: 
+#   title: Blog
+#   description: |
+#     A home for my research publications.
+    
+#   author: "Greg Chism"
+# #   text_link_label: Subscribe via RSS
+# #   text_link_url: /index.xml
+#   show_sidebar_adunit: true # show ad container
+
+# set up common front matter for all pages inside publication/
+cascade:
+  author: "Greg T. Chism"
+  show_author_byline: true
+  show_post_date: true
+  show_comments: true # see site config to choose Disqus or Utterances
+  # for single-sidebar layout
+  sidebar:
+    text_link_label: View recent posts
+    text_link_url: /teaching/
+    show_sidebar_adunit: false # show ad container
+---
