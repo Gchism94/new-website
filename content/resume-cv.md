@@ -18,22 +18,6 @@ links:
 #   url: https://docs.google.com/document/d/1nncUjYOiQUjsx56D7oXGP-abpjgAxbgH7oIZ__AuKjU/edit?usp=sharing
 ---
 
-
-## Resume
-
-<script>
-    function resizeIframe(obj) {
-      obj.style.height =  1.1*obj.contentWindow.document.body.scrollHeight + 'px';
-    }
-  </script>
-
-<iframe width='120%' height='600' 
-    onload="resizeIframe(this)"
-    frameborder="0"
-    src="">
-</iframe>
-
-
 ## CV
 <script>
     function resizeIframe(obj) {
