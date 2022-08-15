@@ -13,7 +13,7 @@ doi: '10.1101/2022.06.30.497551'
 publishDate: '2022-07-02'
 publication_types:
   - '2'
-# publication: 'arXiv'
+# publication: 'bioRxiv'
 summary: 'Preprint for the manuscript detailing how relative humidity does not influence the nest architecture of _Temnothorax rugatulus_ ant colonies.'
 featured: no
 links:

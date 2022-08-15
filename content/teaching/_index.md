@@ -8,7 +8,7 @@ show_button_links: yes
 show_post_date: no
 show_post_thumbnail: yes
 sidebar:
-  author: Greg T. Chism
+  author: "Greg T. Chism"
   description: My featured teaching pedagogy as Quarto books.
   show_sidebar_adunit: yes
   text_link_label: ''

@@ -14,7 +14,7 @@ doi: '10.1101/2022.06.30.498314'
 publishDate: '2022-07-02'
 publication_types:
   - '2'
-# publication: 'arXiv'
+# publication: 'bioRxiv'
 summary: 'Preprint for the manuscript detailing how nest architecture influences colony organization in the nest.'
 featured: no
 links:
