@@ -28,5 +28,5 @@ links:
 <iframe width='125%' height='600' 
     onload="resizeIframe(this)"
     frameborder="0"
-    src="https://drive.google.com/file/d/1__is43FOYZ9f8g8n-a_YxG1YXNY4wzXn/view?usp=sharing">
+    src="https://drive.google.com/drive/my-drive">
 </iframe>
