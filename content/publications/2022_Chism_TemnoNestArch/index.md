@@ -30,6 +30,15 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/Gchism94/NestArchOrg
+- icon: zenodo
+  icon_pack: ai
+  name: Published Data
+  url: https://doi.org/10.5281/zenodo.6784395
+- icon: zenodo
+  icon_pack: ai
+  name: Research Compendium
+  url: https://doi.org/10.5281/zenodo.6828919
+
 ---
 
 ![](NestArchFig.png)
