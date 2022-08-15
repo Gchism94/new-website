@@ -12,6 +12,9 @@ links:
     icon_pack: fas
     name: Teaching Philosophy (PDF)
     url: "/teaching/GChism_TeachingPhil.pdf"
+subtitle: ""
+tags:
+- Education
 title: Teaching philosophy of Greg T. Chism
 ---
 
