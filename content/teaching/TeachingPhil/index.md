@@ -5,11 +5,7 @@ categories:
 - Teaching 
 date: ""
 draft: false
-excerpt: Throughout my teaching tenure, I have discovered the uniqueness and diversity that students possess, not only in their backgrounds, interests, and aptitude to learn, but also their accessibility to
-materials, software, and professional connections. It is my desire to create a safe and open learning
-environment that engages and nurtures students and provides both free and inter-operable materials.
-I also believe in individual mentorship to provide every student with equal opportunity to succeed
-when navigating the professional world.  
+excerpt: Throughout my teaching tenure, I have discovered the uniqueness and diversity that students possess, not only in their backgrounds, interests, and aptitude to learn, but also their accessibility to materials, software, and professional connections. It is my desire to create a safe and open learning environment that engages and nurtures students and provides both free and inter-operable materials. I also believe in individual mentorship to provide every student with equal opportunity to succeed when navigating the professional world.  
 layout: single
 links:
   - icon: file-pdf
@@ -17,7 +13,6 @@ links:
     name: Teaching Philosophy (PDF)
     url: "/teaching/GChism_TeachingPhil.pdf"
 title: Teaching philosophy of Greg T. Chism
-
 ---
 
 Throughout my teaching tenure, I have discovered the uniqueness and diversity that students
