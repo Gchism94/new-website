@@ -145,7 +145,7 @@ enableEmoji = true
     url = "/publications/"
     weight = 3
   [[menu.header]]
-    name = "teaching"
+    name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
     weight = 4
