@@ -1,27 +1,28 @@
 ---
-author: Greg T. Chism
-cascade:
-  show_author_byline: false
-  show_comments: false
-  show_post_date: false
-  sidebar:
-    show_sidebar_adunit: true
-    text_link_label: View all projects
-    text_link_url: /teaching/
+title: "My Teaching Experience"
+author: "Greg T. Chism"
 description: My teaching experience and featured pedagogy as Quarto Books.
-layout: list-sidebar
-show_author_byline: false
-show_button_links: true
-show_post_date: false
-show_post_thumbnail: true
+output: pdf_document
+show_author_byline: no
+show_button_links: yes
+show_post_date: no
+show_post_thumbnail: yes
 sidebar:
   author: Greg T. Chism
-  description: "My teaching experience and featured pedagogy as Quarto Books."
-  show_sidebar_adunit: true
-  text_link_label: ""
-  text_link_url: ""
+  description: My teaching experience and featured pedagogy as Quarto Books.
+  show_sidebar_adunit: yes
+  text_link_label: ''
+  text_link_url: ''
   title: My Teaching Experience
-title: My Teaching Experience
+cascade:
+  show_author_byline: no
+  show_comments: no
+  show_post_date: no
+  sidebar:
+    show_sidebar_adunit: yes
+    text_link_label: View teaching experience
+    text_link_url: /teaching/
+layout: "list-sidebar"
 ---
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+\*\* No content for the project index. This file provides front matter for the blog including the layout and boolean options. \*\*
