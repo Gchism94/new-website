@@ -1,7 +1,7 @@
 ---
 text_align_right: false
 show_title_as_headline: false
-Title: Resume & Curriculum Vitae (CV)
+Title: Curriculum Vitae (CV)
 slug: resume-cv
 links:
 #- icon: file-pdf
@@ -44,5 +44,5 @@ links:
 <iframe width='125%' height='600' 
     onload="resizeIframe(this)"
     frameborder="0"
-    src="cv/gchism_cv.pdf">
+    url="cv/gchism_cv.pdf">
 </iframe>
