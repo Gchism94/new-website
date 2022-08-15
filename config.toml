@@ -150,9 +150,9 @@ enableEmoji = true
     url = "/teaching/"
     weight = 4
   [[menu.header]]
-    name = "Resume/CV"
-    title = "Resume/CV"
-    url = "/resume-cv/"
+    name = "CV"
+    title = "CV"
+    url = "/cv/gchism_cv.pdf/"
     weight = 4
   #[[menu.header]]
   #  name = "A collections"
