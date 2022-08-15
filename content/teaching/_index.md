@@ -7,7 +7,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all projects
-    text_link_url: /project/
+    text_link_url: /teaching/
 description: My teaching experience and featured pedagogy as Quarto Books.
 layout: list-sidebar
 show_author_byline: false
