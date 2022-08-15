@@ -1,7 +1,7 @@
 ---
-title: "My Teaching Experience"
+title: "Featured Teaching Pedagogy"
 author: "Greg T. Chism"
-description: My teaching experience and featured pedagogy as Quarto Books.
+description: My featured teaching pedagogy as Quarto books.
 output: pdf_document
 show_author_byline: no
 show_button_links: yes
@@ -9,9 +9,7 @@ show_post_date: no
 show_post_thumbnail: yes
 sidebar:
   author: Greg T. Chism
-  description: My teaching experience and featured pedagogy as Quarto Books. 
-  Ph.D. in Entomology & Insect Science (Minor in EEB); University of Arizona; 2022
-  B.S. in Zoology; University of California, Santa Barbara; 2016
+  description: My featured teaching pedagogy as Quarto books.
   show_sidebar_adunit: yes
   text_link_label: ''
   text_link_url: ''
