@@ -28,5 +28,5 @@ links:
 <iframe width='125%' height='600' 
     onload="resizeIframe(this)"
     frameborder="0"
-    src=gchism_cv.pdf>
+    src="https://github.com/Gchism94/new-website/blob/51b5ebbd07ea1e59de7101ded6ba9d82f7429122/content/cv/gchism_cv.pdf>
 </iframe>
