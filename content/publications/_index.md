@@ -1,7 +1,7 @@
 ---
 title: Research Publications
 description: |
-  My featured publications, each with accompanying PDFs, preprints, and/or HTML versions produced by the Distill R package.
+  My featured publications, each with accompanying PDFs, preprints, data and published research compendium.
 author: "Greg T. Chism"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
