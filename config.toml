@@ -155,7 +155,7 @@ enableEmoji = true
     url = "/resume-cv/"
     weight = 4
   #[[menu.header]]
-  #  name = "A collection"
+  #  name = "A collections"
    # title = "A collection"
     #url = "/collection/"
     #weight = 5
